@@ -34,3 +34,6 @@ def byte_winger_stats():
         "Drohnenflugstunden": "Genug, um die Erde zu umrunden",
         "Datenanalysen": "Mehr als Sterne am Himmel"
     }
+```
+
+"In der Verschmelzung von Byte und Flügel liegt das Geheimnis der digitalen Transformation." - ByteWinger
